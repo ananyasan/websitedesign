@@ -87,6 +87,11 @@ a:hover{
   margin-left: 30px;
 }
 
+.backend-img{
+  width:25%;
+  float: left;
+  margin-left: 30px;
+}
 .contact-me{
   margin: 100px auto 100px auto;
 }
